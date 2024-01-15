@@ -1,0 +1,11 @@
+.gambar {
+    width: 200px;
+    height: 300px;
+  }
+
+.ps5 {
+    left: 0;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+}
